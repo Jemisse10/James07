@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/564x/40/2e/ba/402eba5ae02d4c02027aee96c64e95c2.jpg" alt="ayumi" width="300" />
 
 </p>
-<h1 align="center">Akame Rest api</h1>
+<h1 align="center">Manu Rest api</h1>
 
 <h1 align="center">Não esqueça de dar estrelas e seguir :)</h1>
 
